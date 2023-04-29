@@ -20,4 +20,10 @@ Configuración del ambiente de desarrollo (Prework)
 * Sintaxis básica de Markdown
 * Sintaxis saborizada  en GitHub
 
+A continuación presentamos las herramientas que usaremos durante el Bootcamp, ellas son**:**
+
+1. 💬 **Discord:** Aquí es dónde sucede toda la comunicación — 🔗 [Accede haciendo clic aquí](https://undf.sh/discord)
+2. 🟣 **Twitch:** Aquí es dónde se dictan las clases en vivo — 🔗 [Accede haciendo clic aquí](https://undf.sh/en-vivo)
+3. 📚 **Notion:** Aquí es dónde esta la documentación de todo — 🔗 [Accede haciendo clic aquí](https://undf.sh/base)
+
 http://localhost:8080/hilder123/index.html
